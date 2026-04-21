@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Engineer | Full Stack Developer | DSA in C++  <br>Passionate about backend development, scalable systems, and clean code.  <br>Currently preparing for SDE roles.
+Full Stack Developer.
 
 
 ## 🌐 Socials:
